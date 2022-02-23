@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Lawrence Church in Reading, in the county of Berks on the 3d of October, 1692 being the day on which the mayor was sworn / by John Griffyth ... ; printed at the request of the mayor and aldermen.</title>
+            <author>Griffyth, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42156</idno>
+            <idno type="STC">Wing G2020</idno>
+            <idno type="STC">ESTC R34922</idno>
+            <idno type="EEBO-CITATION">14908765</idno>
+            <idno type="OCLC">ocm 14908765</idno>
+            <idno type="VID">102860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1571:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Lawrence Church in Reading, in the county of Berks on the 3d of October, 1692 being the day on which the mayor was sworn / by John Griffyth ... ; printed at the request of the mayor and aldermen.</title>
+                  <author>Griffyth, John.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Thessalonians, 1st, IV, 11 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102860:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at St. <hi>LAWRENCE CH<g ref="char:V">Ʋ</g>RCH</hi> IN READING, IN THE COUNTY of <hi>BERKS.</hi> On the 3d of <hi>October</hi> 1692. being the day on which the Mayor was Sworn.</p>
+            <p>By <hi>JOHN GRIFFYTH,</hi> M. A. and Vicar of <hi>White-Waltham, Berks.</hi>
+            </p>
+            <p>
+               <hi>Printed at the Requeſt of the Mayor and Aldermen.</hi>
+            </p>
+            <p>IMPRIMATUR, Geo. Royſe, <hi>R. R<hi rend="sup">mo.</hi> in Chriſto Patri, ac Dom. Dom.</hi> Johanni <hi>Archiep. Cant. à Sacris Domeſt. January</hi> 31. 1692/3.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for William Rogers at the <hi>Sun</hi> over-againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet.</hi> 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:102860:2" rendition="simple:additions"/>
+            <head>TO THE Worſhipful Mr. <hi>JOHN SA<g ref="char:V">Ʋ</g>NDERS,</hi> Mayor; the Recorder, Aldermen, and Burgeſſes of the Corporation of <hi>Reading.</hi>
+            </head>
+            <opener>
+               <salute>Mr. <hi>MAYOR,</hi>
+               </salute>
+            </opener>
+            <p>THIS <hi>Sermon,</hi> which was firſt Preached, being now Printed at your Requeſt, I ſhall make no Apology for it: I know a Plain Diſcourſe will never pleaſe the Curious, and one for Peace will always be unwelcome to the Facti<g ref="char:EOLhyphen"/>ous; and as I pretend not to gratify them, ſo I ſhall never endeavour to humour theſe.</p>
+            <p>My deſign in Preaching it, was to per<g ref="char:EOLhyphen"/>ſuade People to lead quiet and peaceable Lives in all Godlineſs and Honeſty. And your deſire of having it Publiſhed, implieth a Reſolu<g ref="char:EOLhyphen"/>tion of proſecuting this good End, and to con<g ref="char:EOLhyphen"/>vince the unruly, That many things which are
+<pb facs="tcp:102860:3"/>
+Impertinencies in private Perſons, are Du<g ref="char:EOLhyphen"/>ties incumbent on a Magiſtrate.</p>
+            <p>
+               <hi>SIR,</hi> You cannot ſhew your ſelf a truer Lover of your <hi>Corporation,</hi> nor contribute more to its Happineſs any other way, than by incouraging the Practice of True Religion, which will oblige Men to be uſeful in their Generations, by imploying their Hands more, and their Tongues leſs.</p>
+            <p>That your Town may thus flouriſh, by abounding in Love and every good Work, is the hearty deſire of,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Faithful Servant. <hi>JOHN GRIFFYTH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:102860:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 THESS. IV. 11.</hi>
+                  </bibl>
+                  <p>And that ye ſtudy to be quiet, and to do your own buſineſs, and to work with your own hands, as we have com<g ref="char:EOLhyphen"/>manded you.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt the many other Advan<g ref="char:EOLhyphen"/>tages of the Chriſtian Religi<g ref="char:EOLhyphen"/>on, which may reaſonably com<g ref="char:EOLhyphen"/>mend it to all wiſe men, this is no inconſiderable one; That it is adapted to the real Intereſts of men in all Relations and Ca<g ref="char:EOLhyphen"/>pacities; That the Rules it preſcribes tend not on<g ref="char:EOLhyphen"/>ly to mens perſonal tranquility and contentment, but the Publick Peace and Settlement of all Socie<g ref="char:EOLhyphen"/>ties.</p>
+            <p>The Author of this Religion, Chriſt Jeſus, his Entrance into the World was celebrated with Pro<g ref="char:EOLhyphen"/>clamations, as of <hi>Glory to God in the higheſt,</hi> ſo of <hi>peace on earth,</hi> and <hi>good will towards men.</hi> And the Chriſtian Inſtitution it ſelf lays the ſtricteſt Obli<g ref="char:EOLhyphen"/>gations on mens Conſciences, to obſerve thoſe Ho<g ref="char:EOLhyphen"/>miletical, thoſe publick Vertues of Common Con<g ref="char:EOLhyphen"/>verſation, which are for the good of others as well as themſelves; ſuch as Patience, Meekneſs, Gen<g ref="char:EOLhyphen"/>tleneſs, Charity, <hi>&amp;c.</hi> ſo that a good Chriſtian can<g ref="char:EOLhyphen"/>not
+<pb n="2" facs="tcp:102860:4"/>
+be an ill Neighbour; the Precepts of his holy Profeſſion require him to put on all thoſe good Qualities and Habits of the Mind, which diſpoſe men to Peace and Good Nature, and to ſtudy to live ſo as to be eaſy both to themſelves, and all that are about them.</p>
+            <p>
+               <note place="margin">Ver. <hi>9, 10.</hi> of this <hi>Chap.</hi>
+               </note>And thus doth St. <hi>Paul</hi> tell the <hi>Theſſalonians,</hi> That they were <hi>taught of God to love one another</hi>; that therefore they ſhould increaſe more and more in ſuch Chriſtian Charity; and to that end, <hi>They ſhould ſtudy to be quiet, and to do their own buſineſs,</hi> &amp;c.</p>
+            <p>The occaſion and deſign of this Epiſtle (which is ſuppoſed to be the firſt of all St. <hi>Paul</hi>'s Epiſtles) ſeems, by comparing it with the 17<hi>th</hi> of the <hi>Acts</hi> of the <hi>Apoſtles,</hi> to be this; When many both <hi>Jews</hi> and <hi>Gentiles</hi> had been converted to Chriſtianity by the Preaching of <hi>Paul</hi> and <hi>Silas,</hi> the <hi>Jews</hi> raiſe a Tumult; whereupon St. <hi>Paul</hi> makes his eſcape to <hi>Athens</hi>; whence being certified by <hi>Timothy,</hi> of the State of the Church in <hi>Theſſalonica,</hi> how they continued conſtant and firm in their Religion, not<g ref="char:EOLhyphen"/>withſtanding all the Attempts of their Enemies to diſcourage them; he writes this Epiſtle to eſta<g ref="char:EOLhyphen"/>bliſh and ſettle them in thoſe Truths they had re<g ref="char:EOLhyphen"/>ceived; he animates them by the Example of his own Conſtancy, to perſeverance in their Holy Pro<g ref="char:EOLhyphen"/>feſſion; he ſets down particularly ſome of thoſe
+<pb n="3" facs="tcp:102860:4"/>
+Vertues which he would perſuade them to the pra<g ref="char:EOLhyphen"/>ctice of. In the firſt place he exhorts them to Ho<g ref="char:EOLhyphen"/>lineſs towards God; <hi>for this being the will of God, even their ſanctification,</hi> ver. 3. of this Chapter; he who was to teach them how they ought to walk and pleaſe God, requires them to diſtinguiſh them<g ref="char:EOLhyphen"/>ſelves from the prophane <hi>Gentiles,</hi> which knew not God by the purity of their Hearts and Lives; <hi>Every one poſſeſſing his veſſel in ſanctification and ho<g ref="char:EOLhyphen"/>nour,</hi> &amp;c. <hi>ver.</hi> 4, 5. He then diſſuades them from Fraud and Injuſtice, and to have a regard to exact Righteouſneſs in all their Dealings; <hi>That no man ſhould go beyond, or defraud his brother in any matter,</hi> ver. 6. but that inſtead of contriving and deſign<g ref="char:EOLhyphen"/>ing any Injury one to another, they ſhould ſtudy to promote each others Welfare, by Acts of Bene<g ref="char:EOLhyphen"/>ficence, and all the Offices of an Active and Indu<g ref="char:EOLhyphen"/>ſtrious Charity.</p>
+            <p>Theſe <hi>Theſſalonians</hi> were a People too prone to be turbulent, and (as it were) naturally addicted to Tumults and Seditions; their City being very populous, and one of the Metropolitan Cities of <hi>Macedonia,</hi> they were apt to create Factions and Diſturbances upon any ſlight Occaſion: They called together the Rabble upon <hi>Paul</hi>'s Preaching, to drive out both the Apoſtle, and Chriſtianity it ſelf (if they could) out of the City;<note place="margin">Acts <hi>17.5.</hi>
+               </note> 
+               <hi>For they were moved
+<pb n="4" facs="tcp:102860:5"/>
+with envy, and took unto them certain lewd fellows of the baſer ſort, and gathered a company, and ſet all the City in an uproar</hi>: A Practice too uſual in all great and populous Towns, and (as it appears) no new Trick of the Devil's to diſturb the Peace both of Church and State.</p>
+            <p>Again, amongſt thoſe who pretended to embrace the Chriſtian Religion, and to be converted to the Belief of it by St. <hi>Paul</hi>'s Miniſtry, there were ſome who made their Holy Profeſſion a Cloak for Idleneſs, and neglect of the Duties of their Proper Callings; who inſtead of buſying themſelves in their own Vocations, were ſtill prying into other mens Concerns, and intermedling with things which did by no means belong to them: And of theſe ſort of people doth the Apoſtle ſpeak in 2 <hi>Epiſt.</hi> 3.11. <hi>Who walk diſorderly, working not at all, but were buſybodies.</hi> Now that which gave occaſion to ſuch Idleneſs, was this: The Chriſtians of this Church (they who were Believers in Deed, and not in Shew only) at St. <hi>Paul</hi>'s Inſtance raiſed great Charities, and made very liberal Contributions to<g ref="char:EOLhyphen"/>wards the relief of ſuch as were not able to work, (who were the only Poor that the Primitive Chri<g ref="char:EOLhyphen"/>ſtians knew of, or judged proper Objects of Cha<g ref="char:EOLhyphen"/>rity): Their Alms were ſo conſiderable, and their forwardneſs therein ſuch, that the Apoſtle propo<g ref="char:EOLhyphen"/>ſeth
+<pb n="5" facs="tcp:102860:5"/>
+them to the <hi>Corinthians,</hi> as Examples of Good<g ref="char:EOLhyphen"/>neſs and Liberality, 2 <hi>Cor.</hi> 8.</p>
+            <p>Now ſome who were among them, and made a profeſſion indeed of Chriſtian Religion, and that was all, ſeeing what good Proviſion was made by theſe Collections for ſuch as were in want, re<g ref="char:EOLhyphen"/>ſolve to want too; wholly neglect the Works of their Callings, and chuſe to live idly, and rely up<g ref="char:EOLhyphen"/>on thoſe Contributions for a Maintenance; they think it better to live by the Sweat of other mens Brows than their own, and ſo indulge themſelves in all the Eaſe and Softneſs that the Severity of thoſe Times would admit of. Hereupon Idle<g ref="char:EOLhyphen"/>neſs makes them rude and ſawcy, and having no<g ref="char:EOLhyphen"/>thing to do, they become impertinently curious and inquiſitive into other mens Affairs; and theſe are they whom the Apoſtle admoniſheth in the Words of the Text, <hi>To ſtudy to be quiet, and to mind their own</hi> &amp;c.</p>
+            <p>Having thus ſhewed you the particular occaſion of this Advice; I ſhall in the further proſecution of theſe Words,</p>
+            <p n="1">I. Inquire into the Nature of the Duties preſcri<g ref="char:EOLhyphen"/>bed.</p>
+            <p n="2">II. Evince the reaſonableneſs of the obſervance of them.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:102860:6"/>III. Make ſome ſhort Reflections on the whole.</p>
+            <p n="1">I. To the Firſt of theſe: And the Thing recom<g ref="char:EOLhyphen"/>mended to us, is a Peaceable Temper and Behavi<g ref="char:EOLhyphen"/>our, which will make us eaſy to our ſelves and o<g ref="char:EOLhyphen"/>thers. This is the End propoſed, and the Means of attaining it is, by being intent on our Proper Callings, and induſtrious to diſcharge the Duties thereof. One would think that Peace had thoſe many, and ſo deſirable Advantages attending it, that the very Sound of the Word ſhould create a longing after it; and that there were no need of preſſing that as a Duty, which ſo much com<g ref="char:EOLhyphen"/>mends it ſelf, as a Publick Bleſſing to all that are poſſeſt of it; yet ſo inordinate are the Paſſions, ſo contrary the Intereſts, and ſo different the Hu<g ref="char:EOLhyphen"/>mours of men, that it is no very eaſy thing either to procure or preſerve ſo deſirable a Mercy: The Apoſtle therefore requires Chriſtians not only to be contented to live quietly (if they may), but to ſtu<g ref="char:EOLhyphen"/>dy and contrive it, to uſe all the Lawful and Ho<g ref="char:EOLhyphen"/>neſt Arts they can think of, to obtain it; by la<g ref="char:EOLhyphen"/>bouring for that Temper, which is not only inof<g ref="char:EOLhyphen"/>fenſive, but obliging:</p>
+            <p>
+               <note place="margin">Rom. 12.17, 18.</note>And thus doth he adviſe the Chriſtians at <hi>Rome; Recompence to no man evil for evil; provide things honeſt
+<pb n="7" facs="tcp:102860:6"/>
+in the ſight of all men; if it be poſſible, as much as in you lies, live peaceably with all men; q. d.</hi> You muſt be ſo far from offering Injuries, and ſo giving others a juſt occaſion to trouble and be angry with you, that you muſt make the beſt Proviſion you can for Quietneſs and Agreement, and not omit any thing (which you lawfully may do) to prevent Di<g ref="char:EOLhyphen"/>ſturbances, and promote Peace.</p>
+            <p>This Peace which all men ſhould purſue, is not only private between man and man, but publick, as that of Societies; The Peace of their Country, and that both in Church and State; That all men ſhould endeavour to promote Love and Unity in the Town or Place of their abode, by a chearful and ſtrict obſervance of all things that may con<g ref="char:EOLhyphen"/>duce to ſuch a good end. And on the contrary, by ſhewing themſelves in all Companies, and upon all occaſions, profeſt Enemies to Faction, and abhorrers of Schiſm, and utterly to diſlike all ſuch deviliſh and ill natur'd Projects, as tend to Trouble and Confuſion.</p>
+            <p>A mind thus peaceably affected, teacheth a Per<g ref="char:EOLhyphen"/>ſon readily to obey all lawful Commands of his Superiors, not to diſpute the Reaſons of Laws, or to ask Governours wherefore they have required ſuch and ſuch things; but to conſider, it is their Duty to be ſubject, and ſo readily to obey
+<pb n="8" facs="tcp:102860:7"/>
+in all things, where God has not forbidden.</p>
+            <p>When people are captious, and make it their Buſineſs to perplex their own and other mens Conſciences, by corrupt Conſtructions of whole<g ref="char:EOLhyphen"/>ſome Laws; this looks liker a deſign of quarrel<g ref="char:EOLhyphen"/>ling, than a deſire of quietneſs, <hi>viz.</hi> when perſons inſtead of contributing what they can to the Quiet of the State, by a due ſubmiſſion to Governours, and a chearful obedience to Laws, where the Matter of them is Juſt and Honeſt, ſhall preſume to queſtion the Authority of their Lawgivers, and to diſpute the Titles of their Princes, this is down-right Faction, and ſmells of the Pride and Inſolence of <hi>Abſalom; O that they themſelves were but Kings in Iſrael</hi>! Again, when people inſtead of having a due regard to the Precepts of the Go<g ref="char:EOLhyphen"/>ſpel, which require all Chriſtians to proſecute Peace and Unity, and that external, by communica<g ref="char:EOLhyphen"/>ting in all the Parts of Religious Worſhip, as well as that Internal, of Heart and Affections, and inſtead of conforming to what they themſelves own they law<g ref="char:EOLhyphen"/>fully may do for the peace of the Church's ſake; I ſay, inſtead thereof, imploy all the Wit they have, to invent new Scruples, and revive old Objections againſt ſome Ceremonies and Circumſtantials of Religion, and make this a Plea for Separation; this is a plain ſign of a Schiſmatical Dividing Spi<g ref="char:EOLhyphen"/>rit,
+<pb n="9" facs="tcp:102860:7"/>
+deſtitute of that Charity which diſpoſeth good men to ſeek the Peace of <hi>Sion,</hi> and to deſire the repair of all its Breaches: <hi>If I forget thee, O Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> (ſaith the Royal Pſalmiſt) <hi>let my right hand forget her cunning; if I do not remember thee, let my tongue cleave to the roof of my mouth, if I prefer not Jeruſalem above my chief joy</hi>: plainly intimating, that a publick Spirit will ſacrifice private Affecti<g ref="char:EOLhyphen"/>ons and Deſires to the Publick Good; and in his purſuit of it, ſtudies not to gratifie a Faction, or to carry on the Intereſt of ſome beloved Party, but all Pride and Prejudice, and Selfiſh Deſigns, being ſubmitted to the Honour of God, and the Good of his Church, his chief endeavour is to follow after thoſe things that make for Peace, <hi>and whereby we may edify one another.</hi>
+            </p>
+            <p>Let every man do his Duty in his Proper Sta<g ref="char:EOLhyphen"/>tion, obſerve what the Laws of God and Man re<g ref="char:EOLhyphen"/>quire of him in order to this bleſſed End; inſtead of teaching others how to govern and command, let himſelf learn to obey, according to the Apo<g ref="char:EOLhyphen"/>ſtle's Direction; <hi>Let men reſolve to be ſubject to prin<g ref="char:EOLhyphen"/>cipalities and powers, to obey magiſtrates,</hi>
+               <note place="margin">Tit. 3.1, 2.</note> 
+               <hi>to be ready to every good work, to ſpeak evil of no man, to be no braw<g ref="char:EOLhyphen"/>lers, but gentle, ſhewing all meekneſs unto all men.</hi> And this is the true way to be quiet; for as Peace and Concord are beſt ſecur'd by Sobriety and Dili<g ref="char:EOLhyphen"/>gence
+<pb n="10" facs="tcp:102860:8"/>
+in the Works of our particular Callings; ſo Tumults and Diſorders are the Natural Effects of Idleneſs and Impertinency; and therefore the Apo<g ref="char:EOLhyphen"/>ſtle exhorts to Aſſiduous Induſtry, and diſſuades from being curiouſly inquiſitive after other mens Affairs, as the moſt proper Methods of Quiet and Tranquility: So that the latter part of the Verſe forbids Curioſity and Idleneſs, as malignant Vices, productive of all thoſe Miſchiefs which Human Societies are ſubject to.</p>
+            <p>The inquiſitive and buſie Spirit is the off<g ref="char:EOLhyphen"/>ſpring of Pride and Envy, argues the want of Peace and Contentment in the perſon's own Breaſt, and a ſpiteful endeavour to prevent or di<g ref="char:EOLhyphen"/>ſturb them in others: Were men thankful and contented in the Station which Providence hath placed them in, they would ſtudy to con<g ref="char:EOLhyphen"/>form their Minds to their preſent Condi<g ref="char:EOLhyphen"/>tion, acquieſce in the Diſpoſitions of a Wiſe God, and employ their Thoughts to find out how they might beſt ſerve him and their Generations, in the Poſt they are in.</p>
+            <p>Thus doth the Apoſtle adviſe Servants, and thoſe of Low Eſtate amongſt the <hi>Corinthians,</hi>
+               <note place="margin">1 Cor. 9.20.</note> 
+               <hi>to a<g ref="char:EOLhyphen"/>bide in the Calling whereunto they were called</hi>: Not but that they might accept of Liberty, and uſe it thankfully when they might have it; yet whilſt
+<pb n="11" facs="tcp:102860:8"/>
+Providence continued them in meaner circumſtan<g ref="char:EOLhyphen"/>ces, they ought to be contented, and not by pro<g ref="char:EOLhyphen"/>miſing themſelves an imaginary Freedom, neglect the real Duties of their preſent State.</p>
+            <p>Whence is it that ſo many among us intermed<g ref="char:EOLhyphen"/>dle with things that are above their Sphere, and far out of their ſight? that every ordinary Mecha<g ref="char:EOLhyphen"/>nick pretends to Politicks, ſhall underrake to form new Schemes of Government, and preſcribe to Superiors what Laws they ſhould enact, and how they ſhould execute them?</p>
+            <p>Whence is it that ſo many ignorant perſons, who lack to be taught their <hi>Catechiſms,</hi> and to be in<g ref="char:EOLhyphen"/>ſtructed in the Firſt Rudiments of the Chriſtian Religion, ſhall yet quarrel with the Conſtitution of the Church, and find fault with its Govern<g ref="char:EOLhyphen"/>ment, Diſcipline and Worſhip? I ſay, whence ſprings all this rude Impertinency, but from a proud, ambitious Spirit? they are weary of being what they are, and ſo affect to be they know not what: Indeed the ſecret Grumblings of their Stomachs are the ſame with them of <hi>Korah</hi> and his company; they have the ſame Murmu<g ref="char:EOLhyphen"/>rings againſt Magiſtrates and all Superiors, as thoſe had againſt <hi>Moſes</hi> and <hi>Aaron, Numb.</hi> 16.3. <hi>Ye take too much upon you</hi>: and they fall under the Character which the Apoſtle <hi>Jude</hi> gives of filthy Dreamers,
+<pb n="12" facs="tcp:102860:9"/>
+               <hi>Who deſpiſe dominion,</hi>
+               <note place="margin">Jude 8.</note> 
+               <hi>and ſpeak evil of digni<g ref="char:EOLhyphen"/>ties.</hi>
+            </p>
+            <p>It is of ill conſequence, and hath a tendency to diſorder and confuſion, when private men buſie themſelves with State Affairs; the Story of <hi>Phae<g ref="char:EOLhyphen"/>ton</hi> may convince us of the ſad Effects of ſuch for<g ref="char:EOLhyphen"/>bidden Experiments: It argues diſtemper'd Heads, as well as diſaffected Hearts, when men are ſick of the Mercies they enjoy, and formerly, deſir'd; and it is not only a Reflection on the Governors in being, but a calling the Wiſdom of Divine Provi<g ref="char:EOLhyphen"/>dence into queſtion, when men are always unea<g ref="char:EOLhyphen"/>ſie in their preſent circumſtances, and are for pre<g ref="char:EOLhyphen"/>ſcribing other ways of governing the World, than the Wiſdom of the Almighty hath done. There<g ref="char:EOLhyphen"/>fore the Holy one (who is jealous of his Honour) hath in all Ages took that matter into his own hand, and ſhewed more than ordinary marks of his diſpleaſure againſt thoſe who would intermed<g ref="char:EOLhyphen"/>dle with things too high for them. Thus do we find in the place forecited, The Almighty reſents the ſeditious clamours of <hi>Korah, Dathan</hi> and <hi>Abiram,</hi> againſt <hi>Moſes</hi> and <hi>Aaron,</hi> as againſt himſelf, and puniſh'd them accordingly;<note place="margin">Num. 16.</note> for <hi>ver.</hi> 32. <hi>The Earth opened, and ſwallowed both them and their Houſes.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:102860:9"/>It is not honeſt meaning, a pretended Zeal tor God's Glory, and the Good of his Church, that will excuſe (much leſs juſtifie) ſuch Biſibo<g ref="char:EOLhyphen"/>dies; for when private Chriſtians in the Primitive Church, out of a wanton and irregular Zeal deri<g ref="char:EOLhyphen"/>ded the <hi>Heathen</hi> Idolatry, threw down their Ima<g ref="char:EOLhyphen"/>ges, and were ſlain by the <hi>Heathens</hi> in the Fact, they fell Sacrifices to their own Folly, and were al<g ref="char:EOLhyphen"/>low'd no place in the Diptychs of the Church.</p>
+            <p>The Apoſtle <hi>Peter</hi> ranks the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (thoſe, who inſtead of minding their own Buſi<g ref="char:EOLhyphen"/>neſs, were prying into other mens Matters) a<g ref="char:EOLhyphen"/>mongſt Thieves and Murderers, and ſtileth them evil-doers,<note place="margin">1 Pet. 4.15.</note> and accounts the Sufferings they under<g ref="char:EOLhyphen"/>went, no other than the Puniſhment they de<g ref="char:EOLhyphen"/>ſerved.</p>
+            <p>The crime (of being Buſibodies) is of a lower and higher ſort, ſaith the Learned <hi>Hammond.</hi> The firſt is Idleneſs, the ſecond improves it into Sedi<g ref="char:EOLhyphen"/>tion (which is the Sin I am now ſpeaking againſt) a Fault which at that time was very remarkable a<g ref="char:EOLhyphen"/>mong the <hi>Jewiſh</hi> Zealots, who pretending to, and promiſing themſelves a perpetual immunity from all powers of men (as the only Children of God, which were not therefore to be under any man, particularly under <hi>Heathens</hi>) would force all men to joyn with them againſt the <hi>Romans, i. e.</hi> againſt
+<pb n="14" facs="tcp:102860:10"/>
+the publick Peace,<note place="margin">
+                  <hi>Ham.</hi> in 1 Pet. 4.</note> calling themſelves <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The Great Benefactors, and Saviours of their Nation.</hi>
+            </p>
+            <p>We have had too many Inſtances in our own days, to parallel that of the <hi>Jews</hi>; only with this difference, that they were real <hi>Romans,</hi> which the <hi>Jews</hi> conſpired againſt, but they are (for the moſt part) imaginary ones, which our Modern Incen<g ref="char:EOLhyphen"/>diaries delight to ſhew their Zeal againſt: It is but giving the Name of <hi>Popiſh</hi> to either Church or State, and then the cry is, <hi>Down with it, down with it, even unto the ground;</hi> and yet ſuch Factious perſons would be thought the only men of Zeal for the preſervation of Religion and Liberties.</p>
+            <p>But alas! how far is ſuch a carriage from being either religious, or civil? it is ſo far from having any thing of Chriſtianity in it, that it falls ſhort of Humanity and common prudence; and ſuch men, whilſt they affect to be thought great, and would ſeem to deſpiſe the fooleries of children, themſelves become much more fooliſh and vain, <hi>Having eyes that are lofty,</hi>
+               <note place="margin">Pſ. 131.</note> 
+               <hi>and hearts that are haughty, and exerciſing them in great matters, and in things too high for them.</hi>
+            </p>
+            <p>But there are other ſorts of Buſibodies, who if they ſeem not to be as proud and ambitious, yet diſcover no leſs malice and ill-nature than the for<g ref="char:EOLhyphen"/>mer,
+<pb n="15" facs="tcp:102860:10"/>
+               <hi>viz.</hi> the Talebearers and Backbiters;<note place="margin">Lev. 19.16.</note> the <hi>Levitical</hi> Law did forbid men to go <hi>up and down as talebearers amongſt the children of God's people.</hi> The <hi>Hebrew</hi> Doctors explain it thus: <hi>Who is a Talebearer?</hi>
+               <note place="margin">Ainſwort. <hi>in loc.</hi>
+               </note> 
+               <hi>Even he who is loaden with words, and goeth from one to another, and ſaith, Thus ſaid ſuch a one, or thus have I heard of ſuch a one: Although the thing be true, yet ſuch a one would fain mar the whole world.</hi>
+            </p>
+            <p>Such buſie Sycophants are the bane of all Socie<g ref="char:EOLhyphen"/>ties, for they deſtroy that mutual confidence, which is neceſſary to all friendly commerce. In<g ref="char:EOLhyphen"/>deed a pragmatical forward perſon is deſervedly ſhunn'd by all wiſe men, as an unſafe, dangerous companion: A man's being curiouſly inquiſitive after other mens concerns, implies ſome malici<g ref="char:EOLhyphen"/>ous deſign, or at leaſt (to mollifie the Expreſſion) can ſuppoſe no kindneſs; for I have no reaſon to think that man intends to ſerve me, who forgets himſelf; or that he will ſtudy to promote my wel<g ref="char:EOLhyphen"/>fare, who neglects his own; therefore the Wiſe<g ref="char:EOLhyphen"/>man deſcribes, the, Talebearer to be one who re<g ref="char:EOLhyphen"/>vealeth Secrets,<note place="margin">Prov. 11.13.</note> and oppoſeth him to a man <hi>of a faithful ſpirit</hi>: And it is but natural for him who hath no buſineſs of his own that he will mind, to be prying into other mens Secrets; and whilſt he is communicating to one, to learn what he can of
+<pb n="16" facs="tcp:102860:11"/>
+his concerns to carry back to another, and ſo by ſuggeſting ill things of each other alternately, to create differences, and beget an ill opinion in Neighbours of one another, where there was no juſt cauſe given on either ſide: Therefore the Son of <hi>Sirach</hi> admoniſhing to curſe the Whiſperer and Double Tongue, <hi>becauſe they have deſtroyed many that were at peace;</hi> he elegantly calls a Backbiting Tongue, <hi>a third tongue, that which carries ſtories from one to another,</hi>
+               <note place="margin">Ecclus. 28.14.</note> 
+               <hi>and thereby diſquieteth many, and over<g ref="char:EOLhyphen"/>throweth the houſes even of great men.</hi>
+            </p>
+            <p>
+               <note place="margin">Jam. 3.8.</note>The Tongue is an unruly Member, as St. <hi>James</hi> ſaith; and unleſs men do take care to ſtore the heart, which is the Fountain whence it is ſupplied, with Divine and ſerious Meditations, or divert its wantonneſs, by being intent on their proper buſineſs, and induſtrious in the works of their callings, it will grow petulant and intemperate; for where it is not thus ſeaſon<g ref="char:EOLhyphen"/>ed or reſtrain'd, it will ſend out deadly poi<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>So then, he that would ſtudy to be quiet, muſt labour to be contented with his preſent State, and to be diligent in his own Vocation: which brings me to the laſt part of the Apoſtle's Ad<g ref="char:EOLhyphen"/>monition, <hi>That they ſhould work with their own hands.</hi>
+            </p>
+            <p>
+               <pb n="17" facs="tcp:102860:11"/>Not that he would hereby oblige all men to Manual Crafts, which require Toil and Labour of the Body, (though indeed ſuch was the condi<g ref="char:EOLhyphen"/>tion of the Primitive Chriſtians, that they were forced to live by the Sweat of their Brows; and St. <hi>Paul</hi> himſelf encouraged them therein by his own Example, as he tells them 2 <hi>Theſſ.</hi> 3.8.) but the Words are figuratively ſpoken; wherein the Apoſtle requiring Trades-men, and ſuch like, to be laborious in their Occupations, chargeth al<g ref="char:EOLhyphen"/>ſo all others of Higher Rank and Stations in the World, to be diligent to perform thoſe Duties, which God and their Country expect from them in ſuch places and capacities.</p>
+            <p>So that the charge reaches the Gentleman as well as the Tradeſman; and thoſe whoſe Imployment lies in the Head, as well as whoſe labour is that of the Hand, that they ſhould be ſedulous and intent on the Buſineſs of their proper Callings, and not by Idleneſs and Neglect, court thoſe Temptations which will lead them to the forementioned Evils.</p>
+            <p>The mind of man is an active Principle, which will be buſying it ſelf about ſome<g ref="char:EOLhyphen"/>thing or other, and therefore God ordains to every man ſome particular Calling, not to dull and deſtroy that Activity which is in us, but to li<g ref="char:EOLhyphen"/>mit
+<pb n="18" facs="tcp:102860:12"/>
+and confine it, that its Exertions may be uſeful to our ſelves and others. He that is di<g ref="char:EOLhyphen"/>ligent in his own place, and buſies hmſelf with<g ref="char:EOLhyphen"/>in the Bounds of his own Duty, finds Buſineſs enough at home, in his own Employment and Profeſſion, to exerciſe both his Thoughts and Senſes; he cannot ſpare time to gad from Houſe to Houſe, and concern himſelf with other mens Affairs, but finds it work enough to diſcharge (as he ought) the Duties of his own Station. It is the Slothful Perſon that is at leiſure to plot Miſchief, and ſow Diſcord; therefore the Advice of the Son of <hi>Syrach</hi> is ſuitable to our preſent purpoſe; <hi>Send a man to labour, that he be not idle, for idleneſs teacheth him much evil.</hi>
+            </p>
+            <p>
+               <note place="margin">1 Tim. 5.13.</note>The Diſturbances which the young Widows cauſed in the Church of <hi>Epheſus,</hi> were the Effects of Idleneſs; they learnt to be idle, <hi>wandring from houſe to houſe, and ſo not only idle, but tattlers alſo, and buſibodies, ſpeaking things which they ought not.</hi> So alſo St <hi>Paul,</hi> and <hi>Epimenides,</hi> their own Poet, aſcribe both that lying habit and cruelty of the <hi>Cretians</hi> to their Sluggiſhneſs; <hi>They were ſlow and idle, and thence learnt to be liars and evil breaſts.</hi>
+               <note place="margin">Tit 1.12.</note>
+            </p>
+            <p>And thus have I done with the firſt thing propoſed, to ſhew you the Nature of the Du<g ref="char:EOLhyphen"/>ties
+<pb n="19" facs="tcp:102860:12"/>
+here required by the Apoſtle, as alſo of the contrary Vices. I now paſs to the</p>
+            <p n="2">II. Thing, To ſhew the Obligation which all lie under, to proſecute Peace, and the Means of it, by being induſtrious and diligent in their particular Callings. And that</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe 'tis a Duty they owe to God.</p>
+            <p>
+               <hi>Secondly,</hi> to the Country, Town or place which they belong unto.</p>
+            <p>
+               <hi>Firſt,</hi> To God; Here in my Text the Apo<g ref="char:EOLhyphen"/>ſtle inforces theſe Directions and Rules of walk<g ref="char:EOLhyphen"/>ing, upon the account of the Authority which required it. <hi>Do theſe things as we have commanded you.</hi> We <hi>Paul</hi> and <hi>Silas,</hi> who have revealed unto you the whole Will of God, and require the obſervance of theſe Rules, not as of things indifferent in their own Nature, but as Moral Vertues, and ſuch relative Duties as are incumbent on you, both as Chriſtians, and Members of Societies.</p>
+            <p>The Almighty One is a God of peace, and not of confuſion; His Son is the Prince of peace, and his Miniſters the Ambaſſa<g ref="char:EOLhyphen"/>dors of it; and therefore all the Precepts of his Law, muſt needs require the ſincere proſecution of it. The Commandmens of
+<pb n="20" facs="tcp:102860:13"/>
+the Old Law, tend to the peace and united good of mankind, and indeed both the Law and the Prophets enjoyn men to <hi>ſeek peace, and enſue it.</hi> It were endleſs to particulariſe thoſe parts of holy Writ which require it; let it ſuffice therefore inſtead of enumerating the particular Texts for Peace, to tell you, That the Nature of God, who is a God of infinite goodneſs and love; that the Nature and Deſign of the Chriſtian Religion, which he hath given us to walk by, and which is the beſt-natur'd Religion in the whole World, do clearly evince, that it is the Will and Com<g ref="char:EOLhyphen"/>mandment of our great Creator, That all men ſhould in their ſeveral Stations, ſeek to pro<g ref="char:EOLhyphen"/>mote unity and concord, and ſtrictly obſerve all thoſe Rules which tend thereunto. So that Variance and fooliſh Emulations amongſt Neighbours, ſhew the want of Religion, and that ſuch men inſtead of being acted by thoſe Principles of Divine Wiſdom, <hi>Which is firſt pure,</hi>
+               <note place="margin">Jam. 3.17.</note> 
+               <hi>then peaceable, gentle and eaſie to be in<g ref="char:EOLhyphen"/>treated</hi>; are hurried on by paſſion, and led blind<g ref="char:EOLhyphen"/>fold by miſtaken intereſts, which are the firſt cauſes of all troubles and diſorders; for, as the Apoſtle forecited ſaith, <hi>Whence are wars and fightings among you? are they not hence, even
+<pb n="21" facs="tcp:102860:13"/>
+of your Luſts,</hi>
+               <note place="margin">Jam. 4.1.</note> 
+               <hi>which war in your Mem<g ref="char:EOLhyphen"/>bers</hi>?</p>
+            <p>All Contentions and Factions come from the Devil, and gratifie him, whoſe Nature is ſpiteful and malicious: But God is a God of Peace, he hateth diſorders, and requires peace<g ref="char:EOLhyphen"/>able and quiet diſpoſitions an all the Profeſſors of his Religion; and therefore ought we to ſtu<g ref="char:EOLhyphen"/>dy, <hi>&amp;c.</hi> becauſe God commands it.</p>
+            <p>But <hi>Secondly,</hi> Not only in point of Duty to<g ref="char:EOLhyphen"/>wards God, but in point of in Intereſt alſo; kind<g ref="char:EOLhyphen"/>neſs and Affection to your ſelves and others ſhould oblige you to the practice of theſe Du<g ref="char:EOLhyphen"/>ties; it tends to the better ſettlement and im<g ref="char:EOLhyphen"/>provement of a Society, when its Members are at unity within themſelves: Theſe Vertues have a natural Efficacy to ſtrengthen and enrich Socie<g ref="char:EOLhyphen"/>ties; when people labour quietly in their Cal<g ref="char:EOLhyphen"/>lings, and ſo contribute by united and regular Endeavours to the Publick God; This weak<g ref="char:EOLhyphen"/>ens the Hands of their Enemies, and commands Kindneſs and reſpect; to love one another is the beſt way to gain Love; and to apply your ſelves cloſely to your own Buſineſs, is the trueſt way to preſerve it. <hi>Every kingdom divided againſt it ſelf,</hi>
+               <note place="margin">Matt. 12.25.</note> 
+               <hi>is brought to deſolation; and every city or houſe divided a<g ref="char:EOLhyphen"/>gainſt it ſelf, cannot ſtand,</hi> ſaith our Bleſſed Saviour.
+<pb n="22" facs="tcp:102860:14"/>
+When Fellow-members of the ſame Body back<g ref="char:EOLhyphen"/>bite and defame one another, it makes perſons who have any regard to their own Reputation, cautious of having any dealing or commerce with them: but there are thoſe Charms in Unity and Love, which makes the Inhabitants of a Town flouriſh in ſpight of all malicious oppoſition; theſe will diſcourage ſuch as have Deſigns of en<g ref="char:EOLhyphen"/>riching themſelves by making Advantages of other mens Diviſions, from coming in to you; and will invite ſuch as are helps and beneficial to the place they live in, to dwell among you. So that if you have any concern for the Intereſt of <hi>Your Corporation,</hi> you will ſeek to promote Peace, <hi>ſtu<g ref="char:EOLhyphen"/>dy to be quiet, and do your own buſineſs;</hi> you will add Diligence to a Peaceable Behaviour; and this alſo hath a natural tendency to the Proſperity of a Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>For private Diligence is a Publick Good; and the careful managing of every man's own Eſtate and Subſtance, is advantagious to the whole; This is the trueſt way for a man to advance his own Fortune, and of aſſiſting, and being ſervice<g ref="char:EOLhyphen"/>able to his Neighbour.<note place="margin">Prov. 10.4.</note> 
+               <hi>He becometh poor, that dealeth with a ſlack hand, but the hand of the di<g ref="char:EOLhyphen"/>ligent maketh rich,</hi>
+               <note place="margin">c. 22.29.</note> ſaith <hi>Solomon.</hi> And again, <hi>Seeſt thou a man diligent in his buſineſs? he ſhall ſtand
+<pb n="23" facs="tcp:102860:14"/>
+before Kings, he ſhall not ſtand before mean men.</hi>
+            </p>
+            <p>He that is laborious and careful to do the Works of his proper Calling (be it never ſo mean, whether a Plowman, or any other ordi<g ref="char:EOLhyphen"/>nary Employment) and buſies himſelf with no Concerns but his own, is much more uſeful in, and a greater Benefactor to the town or Coun<g ref="char:EOLhyphen"/>try he lives in, than thoſe, who out of a pre<g ref="char:EOLhyphen"/>tended Zeal for Publick Good, are always and in the mean time neglect what they are cal<g ref="char:EOLhyphen"/>led unto. Nay, indeed thoſe men do ſerve their Generations, and anſwer the End of their Creati<g ref="char:EOLhyphen"/>on, but theſe the contrary. But if any Buſibo<g ref="char:EOLhyphen"/>dies ſhould ſtill ſuſpect the truth of my Aſſertion, I would deſire them (for once) to ſubmit to the Judgment and Experience of one, who (they muſt allow) was ſomething wiſer than themſelves; I mean king <hi>Solomon,</hi> and obſerve the Chara<g ref="char:EOLhyphen"/>cter he gives of ſuch perſons;<note place="margin">Prov. 20.3.</note> 
+               <hi>That it is an honour for a man to ceaſe from ſtrife; but they are fools that will be medling</hi>: And again,<note place="margin">Prov. 26.16.</note> 
+               <hi>That the ſluggard who walks about, and hideth his hand in his boſom, is wiſer in his own eyes, than ſeven men that can render a reaſon.</hi>
+            </p>
+            <p>
+               <pb n="24" facs="tcp:102860:15"/>Now to make ſome ſhort Reflections on what hath been ſaid: And if it be ſo; if Faction, Im<g ref="char:EOLhyphen"/>pertinency and Idleneſs have ſuch ill, and (<hi>è con<g ref="char:EOLhyphen"/>tra</hi>) Peace and Concord, Contentment and In<g ref="char:EOLhyphen"/>duſtry have ſuch benign Influences upon Com<g ref="char:EOLhyphen"/>munities as well as Single Perſons, How highly doth it behove all of you to avoid thoſe ugly ill-natur'd Vices forementioned, and ſtudy to be cloathed with thoſe as well Chriſtian, as Moral Habits, which will be not only your Ornaments, but Security?</p>
+            <p>All men (unleſs they are become altogether bruitiſh) naturally deſire the proſperity of their own Town; but unleſs men reſolve to love one another, and inſtead of filling their own Heads with Novelties, or (what is worſe) with Lies, and their Neighbours Ears with Noiſe and Rai<g ref="char:EOLhyphen"/>lery, learn to be meek and humble, to be gen<g ref="char:EOLhyphen"/>tle and kindly affection'd one to another, and to mind their own Buſineſs at home, inſtead of looking after ſome elſewhere; I ſay, unleſs men arrive to this Temper, they are ſo far from doing good, that they are Infecti<g ref="char:EOLhyphen"/>ons, the very Plague of the Place they live in.</p>
+            <p>
+               <pb n="25" facs="tcp:102860:15"/>How highly incumbent then, in the next and Laſt place, is it on you who are intruſted with the Government of this Town, to ſuppreſs all Factions and Diſorders, to diſcountenance buſy and impertinent Bablers, who love to do or ſpeak any thing but what they ſhould?<note place="margin">2 Sam. 20.19.</note> It is the Honour of a Magiſtrate to deſerve the Character of that Wiſe Woman that ſaved the City, to be one of them that is peaceable in <hi>Iſrael</hi>; to be peace<g ref="char:EOLhyphen"/>able himſelf, and to teach the unruly, or elſe compel them to be ſo too: In order hereunto make no other diſtinctions between thoſe that are under you, than according to their Merits; make the diſ<g ref="char:EOLhyphen"/>orderly feel your Juſtice, and thoſe who are qui<g ref="char:EOLhyphen"/>et and induſtrious, the Objects of your Reſpect and Favour; incourage theſe who chuſe to ſpend the Vacancies of their Labours in Church, to pray to God for a Bleſſing on their Labours, rather than in hunting elſewhere after News and Lies.</p>
+            <p>O Let a Principle true Religion excite you to a zealous proſecution of the Publick Weal! that ſo Mercy and Truth may be ſent down from Heaven, and Righteouſneſs and Peace may kiſs each other; if you can but conſtrain, or rather per<g ref="char:EOLhyphen"/>ſuade people to the practice of Religion, this will ſecure to you all thoſe Bleſſings, and root out all thoſe Evils forementioned.</p>
+            <p>
+               <pb n="26" facs="tcp:102860:16"/>I dare appeal to them of you, that knew this Town when it was flouriſhing and eminent for Trade, and could vye perhaps, with moſt Places of its Bigneſs in the Kingdom, for Wealth and Sub<g ref="char:EOLhyphen"/>ſtance, whether there was not more Peace, and better agreement; Whether there was not more Diligence, and leſs Quarrelling and Impertinency then, than has been ſince? Let but the Vertues of your Anceſtors be reſtor'd, and their Succeſs will follow.</p>
+            <p>Your Corporation is endow'd with many and Great Charities; let <hi>Bridewel</hi> be your Hoſpital for the Lazy, and the Benefactions you have to di<g ref="char:EOLhyphen"/>ſpoſe of, the Rewards of the Quiet and Labori<g ref="char:EOLhyphen"/>ous.</p>
+            <p>
+               <note place="margin">
+                  <hi>Seneca</hi> de Eenef.</note>
+               <hi>Beneficia ſine ullo delectu magis projicimus quam da<g ref="char:EOLhyphen"/>mus</hi>; where there is not Judgment of Diſcretion, it is not Charity, it is throwing away, but not gi<g ref="char:EOLhyphen"/>ving. So then, let the moſt Religious, and ſuch as work with their own Hands, and mind to do their own Buſineſs, be preferr'd in your charitable Diſtributions.</p>
+            <p>And left any one ſhould object that to me which I am decrying in others, for preſcribing where I am not concern'd? I anſwer, that the Deſign of my Subject juſtifies me, and ſhews this Corollary naturally deduc'd from it: This Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="27" facs="tcp:102860:16"/>
+in 2 <hi>Epiſt.</hi> to <hi>Theſſ.</hi> 3.10. commands the ſame thing which I exhort, <hi>That they who will not work, neither ſhould they eat.</hi>
+            </p>
+            <p>And let me add,<note place="margin">Archbiſhop <hi>Laud</hi> (beſides many other Cha<g ref="char:EOLhyphen"/>rities) gave <hi>20l.</hi> apiece to Six Maids, who liv'd honeſtly for three Years in one Ser<g ref="char:EOLhyphen"/>vice, to be di<g ref="char:EOLhyphen"/>ſpoſed every third Year.</note> The Conditions of the Triennial Charities given by that Great Prelate, (who too ſeverely felt the Eflects of prevailing Faction) ſuppoſe ſuch Qualifica<g ref="char:EOLhyphen"/>tions: For thoſe Servants may be preſum'd to be neither noiſy nor ſluggiſh, but the contrary, who continue many Years in the ſame ſervice.</p>
+            <p>What remains then, but that by theſe Me<g ref="char:EOLhyphen"/>thods you ſhould endeavour to rid and deliver your ſelves from the hand of Strange Children, <hi>Whoſe mouth ſpeaketh vanity, and their right hand is a right hand of falſhood; that ſo your ſons may be as plants grown up in their youth, that ſo daughters may be as the po<g ref="char:EOLhyphen"/>liſh'd corners of the Temple, that your Garners may be full of all manner of ſtore, and that there be no complain<g ref="char:EOLhyphen"/>ing in your ſtreets.</hi>
+            </p>
+            <p>Happy ſhall you be when you are in ſuch a caſe, <hi>Yea, happy is the people whoſe God is the Lord:</hi> And that ye may be thus happy in this World, and eternally ſo in the next, God of his Infinite Good<g ref="char:EOLhyphen"/>neſs grant, <hi>through Jeſus Chriſt of Lord; To whom,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
